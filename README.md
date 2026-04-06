@@ -27,8 +27,6 @@
 * Chart.js, ApexCharts
 
 ## 📫 Connect with me
-LinkedIn: https://linkedin.com/in/sheeba-ui-developer/
-Email: Sheeba2311@gmail.com
 
 * LinkedIn: https://linkedin.com/in/sheeba-ui-developer/
 * Email: [Sheeba2311@gmail.com](mailto:Sheeba2311@gmail.com)
