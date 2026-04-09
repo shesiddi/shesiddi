@@ -2,7 +2,7 @@
 
 ### Frontend Developer (React | Next.js | AI-Driven UI)
 
-💻 7+ years of experience building scalable web applications in fintech and enterprise environments
+💻 8 years of experience building scalable web applications in fintech and enterprise environments
 🚀 Currently focused on React, Next.js, and modern UI architecture
 🤖 Exploring AI-assisted frontend workflows and agent-based UI systems
 
